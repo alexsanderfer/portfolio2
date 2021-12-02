@@ -30,5 +30,5 @@ O site ainda está em desenvolvimento e as próximas atualizações serão volta
 - [x] Animação no menu;
 - [x] Responsividade;
 - [ ] Adicionar Cartões de Preço na Página (o mesmo se encontra num repositório diferente);
-- [ ] Adicionar Tradução para Inglês (ENG) e Espanhol (ES).
+- [x] Adicionar Tradução para Inglês (ENG) e Espanhol (ES).
 ---
