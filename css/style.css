@@ -915,6 +915,7 @@ footer {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    margin-top: 120px;
 }
 
 footer .social_icons, footer .menu {
